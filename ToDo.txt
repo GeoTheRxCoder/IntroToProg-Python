@@ -1,0 +1,4 @@
+Clean house, low
+Pay bills, highClean house,low
+Pay bills,high
+Replace furnace filter,high
